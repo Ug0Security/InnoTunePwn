@@ -1,4 +1,4 @@
-yet another random root rce found on 15 min on github
+yet another random rce found on 15 min on github
 
 https://www.innotune.at/
 
