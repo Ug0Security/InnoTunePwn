@@ -1,3 +1,5 @@
+yet another random root rce found on 15 min on github
+
 https://www.innotune.at/
 
 https://github.com/sevelm/InnoTune/blob/master/webif/InnoControl/api/helper.php
